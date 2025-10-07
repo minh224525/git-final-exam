@@ -1,0 +1,5 @@
+Tính năng mới: Hệ thống thông báo thời gian thực.  
+- Gửi thông báo khi có cập nhật mới.  
+- Hỗ trợ thông báo qua email và ứng dụng.  
+- Cho phép tùy chỉnh loại thông báo.  
+- Cải thiện trải nghiệm người dùng.
