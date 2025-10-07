@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả.
 - Git hỗ trợ làm việc nhóm rất tốt.
 - Git có nhiều lệnh linh hoạt và mạnh mẽ.
+- Git giúp tiết kiệm thời gian khi làm việc.
+- Git là công cụ không thể thiếu với lập trình viên.
